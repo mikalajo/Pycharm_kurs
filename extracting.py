@@ -39,7 +39,7 @@ def calculate_tax(category, income):
     return income * (100 - discount) / 100
 
 calculate_tax(Category.A, 10000)
-
+print("master")
 # Extract Parameter
 def print_hello():
     print("Hello World")
