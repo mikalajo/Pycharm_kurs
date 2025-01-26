@@ -53,5 +53,7 @@ def main():
     divisible_by_three = [num for num in numbers if num % 3 == 0]
     print(f"Zahlen, die durch 3 teilbar sind: {divisible_by_three}")
 
+print()
+
 if __name__ == "__main__":
     main()
