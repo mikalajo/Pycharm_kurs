@@ -53,7 +53,7 @@ def main():
     divisible_by_three = [num for num in numbers if num % 3 == 0]
     print(f"Zahlen, die durch 3 teilbar sind: {divisible_by_three}")
 
-print()
+print("master3 branch")
 
 if __name__ == "__main__":
     main()
