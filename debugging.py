@@ -55,6 +55,7 @@ def main():
 
 print("master3 branch")
 print("master2")
+print("")
 
 if __name__ == "__main__":
     main()
