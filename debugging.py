@@ -55,7 +55,7 @@ def main():
 
 print("master3 branch")
 print("master2")
-print("")
+print("test fetch und pull")
 
 if __name__ == "__main__":
     main()
